@@ -9,10 +9,13 @@ Advanced AI assistant for Termux with Python tutorials and WiFi tools education.
 - 💖 Emotional responses
 - 🎯 Easy to use in Termux
 ## Installation 
+ ```bash
    update && apt upgrade
 ## Installation 
+ ```bash
    pkg install python
 ## Installation 
+ ```bash
    install git
 ## Installation
 ```bash
